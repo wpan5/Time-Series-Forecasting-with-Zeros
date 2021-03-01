@@ -1,10 +1,11 @@
 # Time-Series-Forecasting-with-Zeros
 
 
-The attached .csv file contains berry production volume for a period of 235 weeks. The goal is to build a model to predict the next 10 weeks of productions using only the data contained in this file.
+The .csv file contains production volume for a period of 235 weeks. The goal is to build a model to predict the next 10 weeks of productions.
 
 
 Based on the forecasts, functional teams can work together to propose strategies related to sales, marketing, inventory & product development.
+
 
 This notebook contains:
 
